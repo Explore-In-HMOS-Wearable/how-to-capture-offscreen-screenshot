@@ -1,0 +1,156 @@
+{
+  "string": [
+    {
+      "name": "module_desc",
+      "value": "module description"
+    },
+    {
+      "name": "EntryAbility_desc",
+      "value": "description"
+    },
+    {
+      "name": "EntryAbility_label",
+      "value": "label"
+    },
+    {
+      "name": "page_title",
+      "value": "Off-screen Snapshot"
+    },
+    {
+      "name": "page_description",
+      "value": "The captured component is created only by the builder below. It is not part of this page."
+    },
+    {
+      "name": "offscreen_badge",
+      "value": "OFF-SCREEN"
+    },
+    {
+      "name": "offscreen_component_title",
+      "value": "ComponentSnapshot"
+    },
+    {
+      "name": "offscreen_component_description",
+      "value": "This component is rendered by a builder and is never added to the visible component tree."
+    },
+    {
+      "name": "offscreen_capture_title",
+      "value": "1. Capture"
+    },
+    {
+      "name": "offscreen_capture_description",
+      "value": "ComponentSnapshot renders this builder without placing it on the current page."
+    },
+    {
+      "name": "offscreen_process_title",
+      "value": "2. Process"
+    },
+    {
+      "name": "offscreen_process_description",
+      "value": "The generated PixelMap can be inspected, transformed, encoded, or displayed."
+    },
+    {
+      "name": "offscreen_save_title",
+      "value": "3. Save"
+    },
+    {
+      "name": "offscreen_save_description",
+      "value": "ImagePacker encodes the PixelMap as a JPEG inside the application sandbox."
+    },
+    {
+      "name": "offscreen_display_title",
+      "value": "4. Display"
+    },
+    {
+      "name": "offscreen_display_description",
+      "value": "The saved image is opened on another page and remains scrollable when it is tall."
+    },
+    {
+      "name": "capture_action",
+      "value": "Capture component"
+    },
+    {
+      "name": "capturing_action",
+      "value": "Capturing..."
+    },
+    {
+      "name": "status_ready",
+      "value": "Ready to capture"
+    },
+    {
+      "name": "status_rendering",
+      "value": "Rendering off-screen component..."
+    },
+    {
+      "name": "status_success",
+      "value": "Capture saved successfully"
+    },
+    {
+      "name": "status_failure",
+      "value": "Capture failed: %s"
+    },
+    {
+      "name": "image_details",
+      "value": "%d x %d px"
+    },
+    {
+      "name": "preview_title",
+      "value": "PixelMap preview"
+    },
+    {
+      "name": "show_screenshot_action",
+      "value": "Show screenshot"
+    },
+    {
+      "name": "screenshot_page_title",
+      "value": "Screenshot"
+    },
+    {
+      "name": "back_action",
+      "value": "Back"
+    },
+    {
+      "name": "back_symbol",
+      "value": "‹"
+    },
+    {
+      "name": "screenshot_loading",
+      "value": "Loading screenshot..."
+    },
+    {
+      "name": "screenshot_loaded",
+      "value": "Scroll to view the complete screenshot"
+    },
+    {
+      "name": "screenshot_path_missing",
+      "value": "Screenshot path is missing"
+    },
+    {
+      "name": "screenshot_load_failure",
+      "value": "Failed to load screenshot: %s"
+    },
+    {
+      "name": "navigation_failure",
+      "value": "Failed to open screenshot: %s"
+    },
+    {
+      "name": "release_image_source_failure",
+      "value": "Failed to release ImageSource: %s"
+    },
+    {
+      "name": "save_failure",
+      "value": "Failed to save snapshot (%d): %s"
+    },
+    {
+      "name": "close_file_failure",
+      "value": "Failed to close snapshot file: %s"
+    },
+    {
+      "name": "release_packer_failure",
+      "value": "Failed to release ImagePacker: %s"
+    },
+    {
+      "name": "release_pixelmap_failure",
+      "value": "Failed to release PixelMap: %s"
+    }
+  ]
+}
